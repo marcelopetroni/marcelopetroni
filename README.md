@@ -8,7 +8,7 @@ Estudante de Ciência da Computação da Universidade Católica de Pernambuco, a
 [![Blog](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:marceloapetroni@hotmail.com)
 [![Blog](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Marcelo-Nunes-the-solid)
 
-### Tecnologias 
+### Tecnologias utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopetroni&&layout=compact&hide_progress=false&theme=tokyonight)
 
 
