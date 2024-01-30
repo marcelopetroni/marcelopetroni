@@ -16,10 +16,13 @@ Estudante de Ciência da Computação da Universidade Católica de Pernambuco, a
 <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img>
 <img src = "https://img.shields.io/badge/CSS-005f69?&style=for-the-badge&logo=css3&logoColor=white"><img>
 <img src = "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"><img>
+<img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><img>
 <img src = "https://img.shields.io/badge/JavaScript-0C2340?style=for-the-badge&logo=javascript&logoColor=white"><img>
 <img src = "https://img.shields.io/badge/Node.js-452c63?style=for-the-badge&logo=node.js&logoColor=white"><img>
 <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img>
 <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img>
+<img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img>
+
 
 
 
