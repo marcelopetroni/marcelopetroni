@@ -1,5 +1,5 @@
 ## Olá, meu nome é Marcelo Petroni 🪐
-Estudante de Ciência da Computação da Universidade Católica de Pernambuco, apaixonado por tecnologia e desenvolvimento de Software, Desenvolvedor Front-end React.js, Node.js, HTML | CSS | JavaScript, baseado em Java, Python, C/C#/C++
+Estudante de Ciência da Computação da Universidade Católica de Pernambuco, apaixonado por tecnologia e desenvolvimento de Software, Desenvolvedor Front-end React.js | React Native | HTML | CSS | JavaScript, TypeScript | Node.js | SQL, baseado em Java, Python, C/C#/C++
 
 ![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelopetroni&show_icons=true&card_width=700&theme=tokyonight)
 
