@@ -1,5 +1,5 @@
 ## Olá, meu nome é Marcelo Petroni 🪐
-Estudante de Ciência da Computação da Universidade Católica de Pernambuco, apaixonado por tecnologia e desenvolvimento de Software, React.js | React Native | HTML | CSS | JavaScript | TypeScript | Node.js | SQL, baseado em Java, Python, C/C#/C++
+Desenvolvedor Júnior em Amigo Tech e Estudante de Ciência da Computação da Universidade Católica de Pernambuco | React.js | Angular.js | React Native | Node.js  HTML | CSS | JavaScript | TypeScript | SQL | Java | Python| C/C++
 
 ![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelopetroni&show_icons=true&card_width=700&theme=tokyonight)
 
@@ -11,15 +11,16 @@ Estudante de Ciência da Computação da Universidade Católica de Pernambuco, a
 ## Tecnologias utilizadas 📱
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopetroni&&layout=compact&hide_progress=false&theme=tokyonight&card_width=550)
 
-<img src = "https://img.shields.io/badge/Java-545AA7?style=for-the-badge&logo=openjdk&logoColor=white"><img>
 <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img>
+<img src = "https://img.shields.io/badge/Node.js-452c63?style=for-the-badge&logo=node.js&logoColor=white"><img>
+<img src = "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"><img>
 <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img>
+<img src = "https://img.shields.io/badge/Java-545AA7?style=for-the-badge&logo=openjdk&logoColor=white"><img>
 <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img>
 <img src = "https://img.shields.io/badge/CSS-005f69?&style=for-the-badge&logo=css3&logoColor=white"><img>
 <img src = "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"><img>
 <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><img>
 <img src = "https://img.shields.io/badge/JavaScript-0C2340?style=for-the-badge&logo=javascript&logoColor=white"><img>
-<img src = "https://img.shields.io/badge/Node.js-452c63?style=for-the-badge&logo=node.js&logoColor=white"><img>
 <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img>
 <img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"><img>
 <img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img>
