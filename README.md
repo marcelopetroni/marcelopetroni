@@ -1,5 +1,5 @@
 ## Olá, meu nome é Marcelo Petroni 🪐
-Desenvolvedor Júnior em Amigo Tech e Estudante de Ciência da Computação da Universidade Católica de Pernambuco | React.js | Angular.js | React Native | Node.js  HTML | CSS | JavaScript | TypeScript | SQL | Java | Python| C/C++
+Desenvolvedor Júnior em Amigo Tech e Estudante de Ciência da Computação da Universidade Católica de Pernambuco | React.js | Angular.js | React Native | Node.js | HTML | CSS | JavaScript | TypeScript | SQL | Java | Python| Jest | C/C++
 
 ![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelopetroni&show_icons=true&card_width=700&theme=tokyonight)
 
