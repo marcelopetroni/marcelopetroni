@@ -1,5 +1,7 @@
-## Olá, meu nome é Marcelo Petroni 🪐
-Desenvolvedor Júnior em Amigo Tech e Estudante de Ciência da Computação da Universidade Católica de Pernambuco | React.js | Angular.js | React Native | Node.js | HTML | CSS | JavaScript | TypeScript | SQL | Java | Python| Jest | C/C++
+## Hey, My name is Marcelo Petroni 🪐
+I'm a Full Stack Software Developer at Amigo Tech focused on writing clean code, improving performance, and building useful features.
+
+Currently working with Node.js, Angular, React, SQL, and Jest, with experience across front-end, back-end, mobile development with React Native, and AI-assisted development workflows.
 
 ![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelopetroni&show_icons=true&card_width=700&theme=tokyonight)
 
@@ -24,6 +26,8 @@ Desenvolvedor Júnior em Amigo Tech e Estudante de Ciência da Computação da U
 <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img>
 <img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"><img>
 <img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 
 
 
