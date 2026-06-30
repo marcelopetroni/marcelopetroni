@@ -3,7 +3,7 @@ I'm a Full Stack Software Developer at Amigo Tech focused on writing clean code,
 
 Currently working with Node.js, Angular, React, SQL, and Jest, with experience across front-end, back-end, mobile development with React Native, and AI-assisted development workflows.
 
-![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelopetroni&show_icons=true&card_width=700&theme=tokyonight)
+![Marcelo's GitHub stats](https://github-readme-stats-hlu917yvd-marcelopetronis-projects.vercel.app/api?username=marcelopetroni&show_icons=true&theme=tokyonight&hide_border=true)
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marceloapetroni@gmail.com)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-nunes-a8b7a223a/)
