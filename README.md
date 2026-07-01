@@ -10,7 +10,7 @@ Currently working with Node.js, Angular, React, SQL, and Jest, with experience a
 [![Blog](https://img.shields.io/badge/Microsoft_Outlook-2c3968?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:marceloapetroni@hotmail.com)
 
 ## Tecnologias utilizadas 📱
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopetroni&&layout=compact&hide_progress=false&theme=tokyonight&card_width=550)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=marcelopetroni&&layout=compact&hide_progress=false&theme=tokyonight&card_width=550)
 
 <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img>
 <img src = "https://img.shields.io/badge/Node.js-452c63?style=for-the-badge&logo=node.js&logoColor=white"><img>
